@@ -1,4 +1,4 @@
-# Learn-JavaScript-HTML
+# Learn-JavaScript
 
 In this repo you will find all of my learning projects for JavaScript. Each learning project is separated by a folder.
 
